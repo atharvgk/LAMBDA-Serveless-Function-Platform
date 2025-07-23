@@ -8,6 +8,8 @@ A serverless function platform that allows you to run Python and Node.js code in
 - Memory limits and timeout controls
 - Simple REST API for function management
 - Built-in code execution monitoring
+## Architecture Diagram:
+![WhatsApp Image 2025-04-21 at 08 50 20_dc455af8](https://github.com/user-attachments/assets/ea5b8202-4f89-4624-a408-8b6862771702)
 
 ## Prerequisites
 
@@ -76,6 +78,5 @@ lambda-serverless-function/
 └── requirements.txt   # Python dependencies
 ```
 
-Architecture Diagram:
-![WhatsApp Image 2025-04-21 at 08 50 20_dc455af8](https://github.com/user-attachments/assets/ea5b8202-4f89-4624-a408-8b6862771702)
+
 
